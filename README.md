@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me  
 
 - 🔭 I’m currently working on **Restaurant-Management Reservation System**  
-- 🌱 I’m currently learning **Java** & **Angular**  
+- 🌱 I’m currently learning **Java** & **Angular** & **CCNA**  
 - 💬 Ask me about **C#, ASP.NET, C++**  
 - 📫 How to reach me: **said.mammadov.dev@gmail.com**
 
