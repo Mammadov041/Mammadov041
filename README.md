@@ -69,35 +69,6 @@
 <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://webpack.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
-<p align="left">
-  <a href="https://webpack.js.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original-wordmark.svg" alt="wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://www.netacad.com/courses/packet-tracer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cisco_packet_tracer_logo.png" alt="cisco packet tracer" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" width="40" height="40"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij idea" width="40" height="40"/>
-  </a>
-</p>
-
-</p>
-
 </p>
 
 ---
